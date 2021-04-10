@@ -1,0 +1,3 @@
+This is just going to be a small little project call **Project Alamanc**
+
+Something like that and what is going to happen is that i am going to try and setup a way and to create projects and show them preety much...
